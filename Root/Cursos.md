@@ -1,2 +1,12 @@
 # Apuntes de cursos
 1. [[Storytelling]]
+2. [[Arquitectura de la información]]
+3. [[Curso de uso y manejo de color]]
+4. [[Expresiones After Effects]]
+5. [[Fundamentos UI UX]]
+6. [[OKRs]]
+7. [[Sistemas de diseño]]
+8. [[Storytelling]]
+9. [[Técnicas de copywriting con storytelling]]
+10. [[Training de mezcla con Soma]]
+11. [[User Research]]

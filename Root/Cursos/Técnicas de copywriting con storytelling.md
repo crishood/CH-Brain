@@ -14,9 +14,9 @@ El copywriting no es algo nuevo. Lo que sí es nuevo es el formato que se le da 
 > No confundas copywriting digital con redacción de contenidos. El copywriting se dedica a construir textos persuasivos y orientados a las conversiones, por ejemplo, ventas; la redacción de contenidos genera textos informativos, así como reportes, investigación, entre otras.
 > 
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_11.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_11.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_11.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_11.jpg)
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_12.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_12.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_12.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_12.jpg)
 
 ### ¿Qué es storytelling?
 
@@ -96,9 +96,9 @@ Todas estas preguntas las debes de contestar en relación a tu producto, no debe
 > Recuerda: No vendes, te compran.
 > 
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_36.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_36.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_36.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_36.jpg)
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_38.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_38.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_38.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_38.jpg)
 
 ---
 
@@ -136,11 +136,11 @@ Tu corpus debe incluir:
 
 Completa tu tabla de Excel con al menos 10 palabras en cada categoría.
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_41.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_41.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_41.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_41.jpg)
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_42.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_42.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_42.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_42.jpg)
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_43.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_43.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_43.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_43.jpg)
 
 ---
 
@@ -157,9 +157,9 @@ Completa tu tabla de Excel con al menos 10 palabras en cada categoría.
 - Las conjunciones que utilices en un texto son de gran importancia. **Busca terminar tus frases siempre con un sentimiento positivo.**
 - Los determinados y posesivos añaden mayor valor a tus textos.
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_48.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_48.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_48.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_48.jpg)
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_47.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_47.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_47.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_47.jpg)
 
 ---
 
@@ -180,7 +180,7 @@ Por ejemplo: Aprender, mejorar, inspirar. Rápido, secreto, exclusivo. Perder, g
 - Personificación: Transformamos un recurso en una persona.
 - Hipérbole: Muy utilizada en la publicidad. Lo que hace es exagerar una situación.
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_54.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_54.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_54.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_54.jpg)
 
 ---
 
@@ -222,7 +222,7 @@ Algunas fórmulas prediseñadas son:
 - “Conseguir” + deseo + “en” + tiempo deseado.
 - La regla del 3: palabra/frase + palabra/frase + palabra/frase.
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_69.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_69.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_69.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_69.jpg)
 
 ---
 
@@ -292,9 +292,9 @@ No confundas una squeeze page con una landing page:
 - Añadir botón CTA directo.
 - Añadir antispam/política de protección de datos.
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_89.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_89.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_89.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_89.jpg)
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_88.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_88.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_88.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_88.jpg)
 
 ---
 
@@ -312,7 +312,7 @@ No confundas una squeeze page con una landing page:
 - Página de Error 404.
 - Texto del footer de tu web.
 
-![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_94.jpg](Te%CC%81cnicas%20de%20copywriting%20con%20storytelling%2039a71949af894858ab6513681e0c6ed8/platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_94.jpg)
+![platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_94.jpg](platzi-slides_e0f68042-c7cc-424e-be82-d0a30e92f60910241024_94.jpg)
 
 ---
 

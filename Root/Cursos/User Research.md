@@ -49,9 +49,9 @@ Dentro de este es importante la interacción de un UX Researcher para poder vali
 
 ### 3. Tipos de User Research
 
-![4 - User Research - Whiteboard Tipos de User Research.png](User%20Research%209a3b8e6e00d148898333526ffdd502e3/4_-_User_Research_-_Whiteboard_Tipos_de_User_Research.png)
+![4 - User Research - Whiteboard Tipos de User Research.png](4_-_User_Research_-_Whiteboard_Tipos_de_User_Research.png)
 
-![Untitled](User%20Research%209a3b8e6e00d148898333526ffdd502e3/Untitled.png)
+![Untitled](Root/Cursos/User%20Research/Untitled.png)
 
 ### 4. Métodos de User Research
 
@@ -97,7 +97,7 @@ Dentro de este es importante la interacción de un UX Researcher para poder vali
 
 ### 5. Planeación estratégica para un proyecto de User Research
 
-[Formato de planeación de investigación UX.pdf](User%20Research%209a3b8e6e00d148898333526ffdd502e3/6-user-research-formato-de-planeacion-de-investigacion_224b7bf6-60c4-400c-a036-36ab9e96fc97.pdf)
+[Formato de planeación de investigación UX.pdf](6-user-research-formato-de-planeacion-de-investigacion_224b7bf6-60c4-400c-a036-36ab9e96fc97.pdf)
 
 [https://sg.com.mx/revista/55/c-mo-ejecutar-un-proyecto-dise-o-experiencia](https://sg.com.mx/revista/55/c-mo-ejecutar-un-proyecto-dise-o-experiencia)
 
@@ -125,7 +125,7 @@ Checklist a la hora de las sesiones.
 
 ### 7. Definir el perfil de protopersona
 
-[8 - User Research - Proto Persona Modelo.pdf](User%20Research%209a3b8e6e00d148898333526ffdd502e3/8_-_User_Research_-_Proto_Persona_Modelo.pdf)
+[8 - User Research - Proto Persona Modelo.pdf](8_-_User_Research_-_Proto_Persona_Modelo.pdf)
 
 ### 8. **Mejores prácticas para reclutar participantes**
 
