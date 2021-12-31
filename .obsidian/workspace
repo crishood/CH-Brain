@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "da11335cc6d49bd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa521c149cdead9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69d39993d2ebbaed",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dad4b115d9c55af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61921b7c76fe611c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f666d36b1d44b4aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285
+  },
+  "right": {
+    "id": "5d7d350b55db49f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a185d9f5329d25b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0c2f575cba0b7c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aa521c149cdead9d",
+  "lastOpenFiles": [
+    "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
+    "Root/Mentores/Antonio Escohotado/Antonio Escohotado.md",
+    "Root/Contenido/Cómo aprender cualquier cosa.md",
+    "Root/🌌 Axis mundi.md",
+    "Root/Contenido.md",
+    "Root/Contenido/Método Zettelkasten con Notion.md",
+    "Root/Zettelkasten/Conectando todo.md",
+    "Root/Libros.md",
+    "Root/Mentores.md",
+    "Root/Cursos.md"
+  ]
+}
