@@ -1,7 +1,7 @@
 # User Research
 
 Created: November 6, 2021 1:59 PM
-Tag: UI / UX
+Tag: #UI/UX
 
 ### 1. **Introducción al User Research**
 

@@ -1,7 +1,7 @@
 # Expresiones After Effects
 
 Created: December 25, 2021 7:59 AM
-Tag: animación
+Tag: #animación
 
 ### Conteo Aleatorio
 

@@ -2,3 +2,9 @@
 Ellos son las personas que admiro. Son individuos interesantes de quienes aprendo a diario.
 
 [[Antonio Escohotado]]
+[[Ayn Rand]]
+[[David Testal]]
+[[Jordan Peterson]]
+[[Monoperro]]
+[[Nicolás Gómez Dávila]]
+[[Varias mentes]]

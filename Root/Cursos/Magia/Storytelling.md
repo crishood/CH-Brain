@@ -145,9 +145,9 @@ Hasta que finalmente...
 
 Dan Harmon identificó un patrón en muchas historias. Es un gran framework pero no es el único.
 
-![Untitled](Root/Cursos/Storytelling/Untitled.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled.png)
 
-![Untitled](Root/Cursos/Storytelling/Untitled%201.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%201.png)
 
 ---
 
@@ -171,9 +171,9 @@ Los plot points incrementan el interés y la atención.
 
 ### 10. El viaje del héroe
 
-![Untitled](Root/Cursos/Storytelling/Untitled%202.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%202.png)
 
-![Untitled](Root/Cursos/Storytelling/Untitled%203.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%203.png)
 
 Los 12 puntos del viaje del héroe por Joseph Campbell
 
@@ -190,7 +190,7 @@ Los 12 puntos del viaje del héroe por Joseph Campbell
 11. Resurrección del héroe
 12. Regreso con elixir
 
-![Untitled](Root/Cursos/Storytelling/Untitled%204.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%204.png)
 
 Preguntarte en cada paso si:
 
@@ -205,7 +205,7 @@ Preguntarte en cada paso si:
 
 ### 11. EL viaje de la heroína
 
-![Untitled](Root/Cursos/Storytelling/Untitled%205.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%205.png)
 
 **Diferencias entre el héroe y la heroína**
 
@@ -245,21 +245,21 @@ Preguntarte en cada paso si:
 
 *Importante:* Podemos tener una historia que fusione varias tramas.
 
-![Untitled](Root/Cursos/Storytelling/Untitled%206.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%206.png)
 
 ---
 
 ### 13. Personajes
 
-![Untitled](Root/Cursos/Storytelling/Untitled%207.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%207.png)
 
-![Untitled](Root/Cursos/Storytelling/Untitled%208.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%208.png)
 
-![Untitled](Root/Cursos/Storytelling/Untitled%209.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%209.png)
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2010.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2010.png)
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2011.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2011.png)
 
 La magia sucede al combinar los arquetipos.
 
@@ -281,7 +281,7 @@ En el por qué están las emociones.
 
 ¿Y por qué?
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2012.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2012.png)
 
 Las historias son universales porque conectan con las emociones y no se quedan en la superficialidad de los hechos.
 
@@ -298,7 +298,7 @@ Las historias son universales porque conectan con las emociones y no se quedan e
 
 ### 16. Cómo contar una historia
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2013.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2013.png)
 
 ### El Storytelling tiene como objetivo que el mensaje…
 
@@ -411,7 +411,7 @@ Todo se trata del por qué.
 
 Todas las marcas deben ser héroes de una historia.
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2014.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2014.png)
 
 Mi marca es la protagonista de mi historia.
 
@@ -425,11 +425,11 @@ Tu marca no puede ser perfecta. Nadie quiere ser perfecto.
 
 ¿Quién es el villano?
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2015.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2015.png)
 
 Conecta esto con el arquetipo
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2016.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2016.png)
 
 Es muy sencillo ser alguien pero muy pocos significan algo
 
@@ -437,9 +437,9 @@ Es muy sencillo ser alguien pero muy pocos significan algo
 
 ### 24. Business Storytelling
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2017.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2017.png)
 
-![Untitled](Root/Cursos/Storytelling/Untitled%2018.png)
+![Untitled](Root/Cursos/Magia/Storytelling/Untitled%2018.png)
 
 Se trata de una herramienta de management para crear una cultura.
 

@@ -1,7 +1,7 @@
 # Curso de uso y manejo de color
 
 Created: October 30, 2021 1:27 PM
-Tag: UI / UX
+Tag: #UI/UX #diseño
 
 ### 1. Importancia del color
 
@@ -37,17 +37,17 @@ Cuando Newton descubrió la gama de colores empezó a asociarlos con las notas m
 - Los primarios y secundarios que nacieron primero se nombran con su nombre original.
 - Los colores terciarios se nombran con el nombre del color primario y el nombre del color secundario como apellido.
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%201.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%201.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%202.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%202.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%203.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%203.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%204.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%204.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%205.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%205.png)
 
 ---
 
@@ -117,29 +117,29 @@ Las armonía más agradables se encuentran en la naturaleza.
 
 - Armonía monocromática: La variación de un solo color para dar un estilo elegante y sofisticado.
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%206.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%206.png)
 
 - Armonía análoga: Colores que se están uno al lado del otro en la rueda cromática. Son cómodos de usar pero también dan un toque creativo
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%207.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%207.png)
 
 - Armonía complementaria: La armonía complementaria es creativa y disruptiva. Se trata de colores que están uno al frente del otro en la rueda cromática.
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%208.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%208.png)
 
 - Triadas: Armonías generas al usar un triángulo equidistante en el círculo cromático, proyectos contrastantes y fuertes.
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%209.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%209.png)
 
 - Cercanos complementarios: Usar los dos colores que rodean al color opuesto.
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2010.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2010.png)
 
 ---
 
 ### 7. Contraste
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2011.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2011.png)
 
 El contraste genera tensión visual para llevar el ojo del usuario de un lado a otro. Usamos contraste para impactar y dejar claro el mensaje.
 
@@ -151,17 +151,17 @@ El contraste por triada nos garantiza el viaje más largo del color dentro del c
 
 Es el contraste de un solo matiz viajando desde lo más oscuro a lo más claro.
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2012.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2012.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2013.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2013.png)
 
 ---
 
 ### 9. Temperatura del color
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2014.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2014.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2015.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2015.png)
 
 ---
 
@@ -169,11 +169,11 @@ Es el contraste de un solo matiz viajando desde lo más oscuro a lo más claro.
 
 El color es el medio más relativo del arte. Todo depende del contexto.
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2016.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2016.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2017.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2017.png)
 
-![Untitled](Root/Cursos/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2018.png)
+![Untitled](Root/Cursos/UI%20UX/Curso%20de%20uso%20y%20manejo%20de%20color/Untitled%2018.png)
 
 ![Untitled](Untitled%2019.png)
 

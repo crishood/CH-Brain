@@ -1,7 +1,7 @@
 # OKRs
 
 Created: September 29, 2021 8:14 AM
-Tag: PM
+Tag: #PM #productividad 
 
 ## Qué son
 

@@ -4,8 +4,8 @@ Created: November 5, 2021 3:41 PM
 Tag: mezcla y mastering
 
 **La ruta de una buena mezcla (Por Soma)**
+![[pasted image 0.png]]
 
-[https://lh6.googleusercontent.com/ygdQG0TuQ7DNPoKqeMWZ12GluUbhybQ6rjwqyvQhkxQ-qD2N94KZMvQqyP09HK1bvojKGDxkXnSud0cONVhRzbhXMWBKlho8UHj5tHDPksi0MNYhaxRufbtCtLIDFakKzakSfkd4](https://lh6.googleusercontent.com/ygdQG0TuQ7DNPoKqeMWZ12GluUbhybQ6rjwqyvQhkxQ-qD2N94KZMvQqyP09HK1bvojKGDxkXnSud0cONVhRzbhXMWBKlho8UHj5tHDPksi0MNYhaxRufbtCtLIDFakKzakSfkd4)
 
 ## **Fundamentos de la mezcla**
 
@@ -113,8 +113,8 @@ La EQ puede hacerse de manera aditiva o sustractiva:
 
 1. Aditiva: Añadiendo ganancia a las frecuencias.
 2. Sustractiva: Quitando ganancia.
+![[pasted image 0 (1).png]]
 
-[https://lh5.googleusercontent.com/6-BhIXH2Ekn_3q7rZs0GKlgeuUVTk-VjYVldL8C4m_79IWXSH3iXaTGF3AcADXRJZweyTNPWxe3Tm6ixzcOWnnOMf85tmzu4HJLFZnXiX9HmrkIziG0b8R4vqdQEp_i5Jde3C1_4](https://lh5.googleusercontent.com/6-BhIXH2Ekn_3q7rZs0GKlgeuUVTk-VjYVldL8C4m_79IWXSH3iXaTGF3AcADXRJZweyTNPWxe3Tm6ixzcOWnnOMf85tmzu4HJLFZnXiX9HmrkIziG0b8R4vqdQEp_i5Jde3C1_4)
 
 **03 DINÁMICA:**
 
