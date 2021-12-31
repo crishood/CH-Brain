@@ -1,7 +1,7 @@
 # Técnicas de copywriting con storytelling
 
 Created: October 7, 2021 8:27 PM
-Tag: copywriting, magia
+Tag: #copywriting, #magia
 
 ## 1. Desarrollo de conceptos (definición y ejemplos reales)
 

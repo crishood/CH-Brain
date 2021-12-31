@@ -8,5 +8,3 @@ En mi Axis mundi conecto:
 * [[Videos YT]]
 * [[Podcasts]]
 * [[Canciones]]
-
-#AXIS

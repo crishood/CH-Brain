@@ -4,6 +4,8 @@ Ellos son las personas que admiro. Son individuos interesantes de quienes aprend
 [[Antonio Escohotado]]
 [[Ayn Rand]]
 [[David Testal]]
+[[Espi]]
+[[Freddy Vega]]
 [[Jordan Peterson]]
 [[Monoperro]]
 [[Nicolás Gómez Dávila]]
