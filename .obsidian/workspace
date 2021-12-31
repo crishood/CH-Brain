@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#UI/UX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,15 +84,15 @@
   },
   "active": "aa521c149cdead9d",
   "lastOpenFiles": [
-    "Root/Mentores/Espi/Primero resuelve tu situación económica y después persigue tu sueño.md",
-    "Root/Mentores/Espi/No entres en la vaca.md",
-    "Root/Mentores/Espi/Que todo quede por escrito.md",
-    "Root/🌌 Axis mundi.md",
-    "Root/Mentores.md",
-    "Root/Mentores/Freddy Vega/Freddy Vega.md",
-    "Root/Cursos/Magia/Técnicas de copywriting con storytelling.md",
-    "Untitled.md",
+    "Root/Mentores/Jordan Peterson/Jordan Peterson.md",
     "Root/Zettelkasten/Combina la música con otras cosas.md",
-    "Root/Zettelkasten/Todas las historias ya fueron contadas.md"
+    "Root/Cursos.md",
+    "Root/Cursos/Code/Python.md",
+    "Root/Zettelkasten/Aplicación web para escribir canciones de reggaeton.md",
+    "Root/Zettelkasten.md",
+    "Root/🌌 Axis mundi.md",
+    "Root/Mentores/Espi/Espi.md",
+    "Root/Mentores/Espi/Que todo quede por escrito.md",
+    "Root/Mentores/Espi/Primero resuelve tu situación económica y después persigue tu sueño.md"
   ]
 }

@@ -1,3 +1,4 @@
 # Que todo quede por escrito
 by [[Espi]]
-#consejo 
+Veáse también en [[Artist Development]]
+#consejo #TerryMcManus 

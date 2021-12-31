@@ -10,3 +10,5 @@
 9. [[Técnicas de copywriting con storytelling]]
 10. [[Training de mezcla con Soma]]
 11. [[User Research]]
+12. [[Artist Development]]
+13. [[Python]]
