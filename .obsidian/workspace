@@ -7,8 +7,12 @@
         "id": "aa521c149cdead9d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Root/🌌 Axis mundi.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UI/UX",
+                "query": "tag:#magia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Root/🌌 Axis mundi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "aa521c149cdead9d",
   "lastOpenFiles": [
-    "Root/Mentores/Jordan Peterson/Jordan Peterson.md",
-    "Root/Zettelkasten/Combina la música con otras cosas.md",
-    "Root/Cursos.md",
-    "Root/Cursos/Code/Python.md",
-    "Root/Zettelkasten/Aplicación web para escribir canciones de reggaeton.md",
-    "Root/Zettelkasten.md",
     "Root/🌌 Axis mundi.md",
-    "Root/Mentores/Espi/Espi.md",
-    "Root/Mentores/Espi/Que todo quede por escrito.md",
-    "Root/Mentores/Espi/Primero resuelve tu situación económica y después persigue tu sueño.md"
+    "Root/Cursos/Magia/Storytelling.md",
+    "Root/Zettelkasten/La vida es corta pero suficiente.md",
+    "Root/Zettelkasten/Todas las historias ya fueron contadas.md",
+    "Root/Zettelkasten/Combina la música con otras cosas.md",
+    "Root/Cursos/Animación/Expresiones After Effects.md",
+    "Root/Zettelkasten/Aplicación web para escribir canciones de reggaeton.md",
+    "Root/Zettelkasten/Conectando todo.md",
+    "Root/Zettelkasten.md",
+    "Root/Mentores/Jordan Peterson/Jordan Peterson.md"
   ]
 }

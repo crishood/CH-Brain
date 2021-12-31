@@ -5,6 +5,7 @@ Enlace con curso: https://www.notion.so/Artist-Development-af8f24aa417043df97e18
 Minded?: Si
 Tags: #aprendizaje, #ensayo, #musicindustry
 
+
 ## Preparando mi historia
 
 | ¿Qué quiero lograr? | ¿Dónde arranco? | ¿Hacia dónde voy? |
@@ -30,7 +31,7 @@ Tags: #aprendizaje, #ensayo, #musicindustry
 | 2 | Con la diversificación de las herramientas para producir música también vino la pluralización de los espacios en los que esta se graba. | Gracias a las tecnologías portables ahora los artistas pueden hacer sus producciones desde sus dormitorios. | Un buen ejemplo de esto es el artista venezolano Danny Ocean quien este año lanzó su exitoso disco debut 54 + 1, el cual compuso, grabó y mezcló desde su habitación. | El proceso de creación es ahora más sencillo que nunca, al igual que el proceso de distribución y promoción que gracias a internet es ahora más barato. |
 | 3 | Ahora el internet es la herramienta más importante para la promoción y la distribución de música. | Con plataformas como Spotify, YouTube o Apple Music, los artistas pueden mostrar al mundo sus creaciones con o sin una disquera que los respalde. Por medio de Instagram o Facebook una banda puede darse a conocer y encontrar su nicho. | Esta variedad de canales demanda que los artistas aprendan a llegar a los oídos correctos por medio del uso de estrategias digitales y SEO (Search Engine Optimization). | Hoy en día el artista cuenta con herramientas asequibles para la creación, promoción y distribución de su música. |
 
-## **Conclusión/ Recapitulación/ Desenlace**
+## Conclusión/ Recapitulación/ Desenlace
 
 | Revisión de las ideas/ Resumen | Solución/ Conclusión | Call to action |
 | --- | --- | --- |
