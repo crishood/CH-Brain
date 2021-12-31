@@ -57,4 +57,4 @@ La mejor manera de entrenar es hacerlo lentamente con cada uno de los elementos 
 
 La práctica puede hacerse pesada y esto provoca el abandono. Por lo tanto es necesario hacer que sea divertido y estimulante practicar.
 
-#videoyoutube #productividad #aprendizaje 
+#productividad #aprendizaje 

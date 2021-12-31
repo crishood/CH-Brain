@@ -25,4 +25,4 @@ Para empezar a llenar mi Zettelkasten puedo empezar a hacer preguntas del tipo:
 -   ¿Cómo puedo aplicar esto en mi vida?
 -   ¿Cómo puedo relacionar esto con otras cosas que ya conozco?
 
-#productividad #zettelkasten #aprendizaje #apuntes #videoyoutube 
+#productividad #zettelkasten #aprendizaje #apuntes

@@ -7,12 +7,8 @@
         "id": "aa521c149cdead9d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Root/Cursos/Storytelling.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#apuntes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/Cursos/Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +85,15 @@
   },
   "active": "aa521c149cdead9d",
   "lastOpenFiles": [
+    "Root/Videos YT/Método Zettelkasten con Notion.md",
+    "Root/Videos YT/Cómo aprender cualquier cosa.md",
+    "Root/Videos YT.md",
     "Root/Cursos/Storytelling.md",
-    "Root/Contenido/Método Zettelkasten con Notion.md",
     "Root/Cursos.md",
     "Root/Libros/Hábitos Atómicos.md",
     "Root/🌌 Axis mundi.md",
     "Root/Canciones.md",
     "Root/Podcasts.md",
-    "Root/Videos YT.md",
-    "README.md",
-    "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md"
+    "README.md"
   ]
 }

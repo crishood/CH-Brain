@@ -119,7 +119,7 @@ Si tu crees en lo que yo creo podemos estar juntos.
 
 Para contar historias hay que tener coraje y actitud, seguir hacia adelante, ensayo a ensayo.
 
-[https://lh4.googleusercontent.com/0e9sPbGEUajmA1oCCj83D839xI9LmJnA6GTsXKbjUnzT7uF9v4htWIHGtzwlBcughI5rK46Shv-VCHPqLPjAnRBgIuRTZTaCE0KDeWXqZajoU_YbawREdlUN_zf8fhQXKPJ2SbpP=s0](https://lh4.googleusercontent.com/0e9sPbGEUajmA1oCCj83D839xI9LmJnA6GTsXKbjUnzT7uF9v4htWIHGtzwlBcughI5rK46Shv-VCHPqLPjAnRBgIuRTZTaCE0KDeWXqZajoU_YbawREdlUN_zf8fhQXKPJ2SbpP=s0)
+[Golden circle](https://lh4.googleusercontent.com/0e9sPbGEUajmA1oCCj83D839xI9LmJnA6GTsXKbjUnzT7uF9v4htWIHGtzwlBcughI5rK46Shv-VCHPqLPjAnRBgIuRTZTaCE0KDeWXqZajoU_YbawREdlUN_zf8fhQXKPJ2SbpP=s0)
 
 ---
 
