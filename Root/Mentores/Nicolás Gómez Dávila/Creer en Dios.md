@@ -1,0 +1,1 @@
+Creer en Dios, confiar en Cristo, mirar con malicia.

@@ -1,0 +1,1 @@
+Al inventarle un sentido global al mundo despojamos de sentido hasta los fragmentos que lo tienen.

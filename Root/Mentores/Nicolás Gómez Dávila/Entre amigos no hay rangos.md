@@ -1,0 +1,1 @@
+Tan sólo entre amigos no hay rangos.

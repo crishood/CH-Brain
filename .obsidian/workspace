@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 330
   },
   "right": {
     "id": "5d7d350b55db49f3",
@@ -84,15 +84,15 @@
   },
   "active": "2a188c2fc6e6e878",
   "lastOpenFiles": [
-    "Root/Mentores/Antonio Escohotado/Antonio Escohotado.md",
-    "Root/🌌 Axis mundi.md",
-    "Root/Cursos/Music Industry/Artist Development.md",
-    "Root/Zettelkasten/Todas las historias ya fueron contadas.md",
-    "Root/Zettelkasten/Combina la música con otras cosas.md",
-    "Root/Cursos/Magia/Storytelling.md",
-    "Root/Cursos/Animación/Expresiones After Effects.md",
-    "Root/Zettelkasten/La vida es corta pero suficiente.md",
-    "Root/Zettelkasten/Aplicación web para escribir canciones de reggaeton.md",
-    "Root/Zettelkasten/Conectando todo.md"
+    "Root/Mentores/Nicolás Gómez Dávila/Nicolás Gómez Dávila.md",
+    "Root/Mentores/Nicolás Gómez Dávila/La poesía no visita sino de paso.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Al acrecentar su poder.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Lo difícil no es creer en Dios.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Entre amigos no hay rangos.md",
+    "Root/Mentores/Nicolás Gómez Dávila/La religión se refugia en la poesía.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Es reacionario.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Sentido global.md",
+    "Root/Mentores/Nicolás Gómez Dávila/El individuo no busca su identidad.md",
+    "Root/Mentores/Nicolás Gómez Dávila/El que no cree en mitos.md"
   ]
 }

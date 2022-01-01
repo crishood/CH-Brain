@@ -1,0 +1,1 @@
+Es reaccionario quienquiera que no esté listo a comprar su victoria a cualquier precio.

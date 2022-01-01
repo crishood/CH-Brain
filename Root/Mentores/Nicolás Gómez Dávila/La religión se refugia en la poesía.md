@@ -1,0 +1,1 @@
+# La religión se refugia en la poesía, cuando el hombre la expulsa del universo.

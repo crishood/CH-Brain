@@ -1,0 +1,1 @@
+Las perfecciones de quien amamos no son ficciones del amor. Amar es, al contrario, el privilegio de advertir una perfección invisible a otros ojos.

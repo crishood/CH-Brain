@@ -1,0 +1,1 @@
+# Verdadero aristócrata es el que tiene vida interior. Cualquiera que sea su origen, su rango o su fortuna.

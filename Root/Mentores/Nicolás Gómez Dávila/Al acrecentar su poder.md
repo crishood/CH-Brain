@@ -1,0 +1,1 @@
+# Al acrecentar su poder, la humanidad está multiplicando sus servidumbres.

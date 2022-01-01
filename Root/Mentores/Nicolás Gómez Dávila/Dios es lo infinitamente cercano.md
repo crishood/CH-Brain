@@ -1,0 +1,1 @@
+Dios es lo infinitamente cercano y lo infinitamente lejano; de Él no debe hablarse como si estuviese a mediana distancia.

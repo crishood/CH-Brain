@@ -1,0 +1,1 @@
+Ningún ser merece nuestro interés más de un instante, o menos de una vida.

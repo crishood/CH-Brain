@@ -12,3 +12,4 @@
 11. [[User Research]]
 12. [[Artist Development]]
 13. [[Python]]
+14. [[¿Cómo grabar voces desde casa]]

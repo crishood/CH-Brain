@@ -1,0 +1,1 @@
+# El individuo no busca su identidad sino cuando desespera de su calidad.
