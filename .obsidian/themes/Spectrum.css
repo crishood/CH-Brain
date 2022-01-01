@@ -64,13 +64,13 @@
   --main-node: rgb(var(--main-node-rgb));
   --main-node-hover-rgb: 144, 28, 215;
   --main-node-hover: rgb(var(--main-node-hover-rgb));
-  --tags-rgb: 144, 28, 215;
+  --tags-rgb: 144, 28, 215 !important;
   --tags: rgb(var(--tags-rgb));
   --external-link-rgb: 0, 128, 128;
   --external-link: rgb(var(--external-link-rgb));
   --external-link-hidden-rgb: 131, 197, 235;
   --external-link-hidden: rgba(var(--external-link-hidden-rgb), 0.3);
-  --main-background-rgb: 29, 43, 46;
+  --main-background-rgb: 29, 43, 6;
   --main-background: rgb(var(--main-background-rgb));
   --secondary-background-rgb: 27, 27, 27;
   --secondary-background: rgb(var(--secondary-background-rgb));
@@ -92,7 +92,7 @@
   /* Overriding Obsidian Variables */
   --default-font: 'JetBrains Mono', monospace;
   --font-monospace: var(--default-font);
-  --text-normal: rgb(201, 201, 201);
+  --text-normal: rgb(1, 44, 55);
   --text-accent: var(--main-node);
   --text-accent-hover: var(--main-node-hover);
   --background-primary: var(--main-background);
@@ -102,12 +102,12 @@
   --text-on-accent: black;
   --background-modifier-error: #cf2d2d;
   --background-modifier-error-hover: #a72020;
-  --text-highlight-bg: #e9b35f;
+  --text-highlight-bg: #4FC231;
 }
 
 :root,
 .theme-light {
-  --main-background: #50666A;
+  --main-background: #f5f5f5;
   --secondary-background: #e2e2e2;
   --secondary-background-low-opacity: #e2e2e254;
   --main-node: #C2DF38;
@@ -127,7 +127,7 @@
   --interactive-accent-hover: var(--main-node-hover);
   --background-modifier-error: #cf2d2d;
   --background-modifier-error-hover: #a72020;
-  --text-highlight-bg: #e9b35f;
+  --text-highlight-bg: #4FC231;
 }
 
 @font-face {
@@ -1455,8 +1455,8 @@ Credit to github.com/nothingislost for the inspiration of the "subway line list"
   opacity: 0.5;
 }
 
-* .theme-dark .graph-view.color-fill-tag {
-  color: var(--tags);
+* .theme-light .graph-view.color-fill-tag {
+  color: #901CD7 !important;
 }
 
 .theme-dark .graph-view.color-fill-attachment {
@@ -1464,7 +1464,7 @@ Credit to github.com/nothingislost for the inspiration of the "subway line list"
 }
 
 .graph-view.color-line {
-  color: #50666A;
+  color: #d3d3d3;
 }
 
 .graph-view.color-line-highlight,
