@@ -1,7 +1,7 @@
 # Todas las historias ya fueron contadas
 
 Created: December 31, 2021 11:27 AM
-Enlace con curso: https://www.notion.so/Artist-Development-af8f24aa417043df97e18ee80ca74648
+Enlace con curso: [[Artist Development]]
 Minded?: Si
 Tags: #aprendizaje, #ensayo, #musicindustry
 

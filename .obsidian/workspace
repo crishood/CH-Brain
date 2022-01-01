@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "aa521c149cdead9d",
+        "id": "2a188c2fc6e6e878",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa521c149cdead9d",
+  "active": "2a188c2fc6e6e878",
   "lastOpenFiles": [
+    "Root/Mentores/Antonio Escohotado/Antonio Escohotado.md",
     "Root/🌌 Axis mundi.md",
+    "Root/Cursos/Music Industry/Artist Development.md",
+    "Root/Zettelkasten/Todas las historias ya fueron contadas.md",
     "Root/Zettelkasten/Combina la música con otras cosas.md",
     "Root/Cursos/Magia/Storytelling.md",
     "Root/Cursos/Animación/Expresiones After Effects.md",
     "Root/Zettelkasten/La vida es corta pero suficiente.md",
-    "Root/Zettelkasten/Todas las historias ya fueron contadas.md",
     "Root/Zettelkasten/Aplicación web para escribir canciones de reggaeton.md",
-    "Root/Zettelkasten/Conectando todo.md",
-    "Root/Zettelkasten.md",
-    "Root/Mentores/Jordan Peterson/Jordan Peterson.md"
+    "Root/Zettelkasten/Conectando todo.md"
   ]
 }
