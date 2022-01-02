@@ -1,7 +1,7 @@
 # Sistemas de diseño
 
 Created: December 12, 2021 11:07 AM
-Tag: #UI/UX #diseño #productividad 
+Tag: #UI/UX #diseño #productividad #Platzi 
 
 ### Intro
 

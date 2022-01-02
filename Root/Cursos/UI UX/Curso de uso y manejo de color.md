@@ -1,7 +1,7 @@
 # Curso de uso y manejo de color
 
 Created: October 30, 2021 1:27 PM
-Tag: #UI/UX #diseño
+Tag: #UI/UX #diseño #Platzi 
 
 ### 1. Importancia del color
 

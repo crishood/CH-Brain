@@ -1,7 +1,7 @@
 # Fundamentos UI UX
 
 Created: December 12, 2021 9:35 AM
-Tag: #UI/UX
+Tag: #UI/UX #Platzi 
 
 ### UX
 

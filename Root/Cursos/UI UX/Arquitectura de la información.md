@@ -1,7 +1,7 @@
 # Arquitectura de la información
 
 Created: December 12, 2021 7:00 PM
-Tag: #UI/UX
+Tag: #UI/UX, #Platzi 
 
 ### ¿Qué es?
 

@@ -1,7 +1,7 @@
 # Storytelling
 
 Created: October 11, 2021 7:20 PM
-Tag: #magia, #storytelling
+Tag: #magia, #storytelling, #Platzi 
 
 ### 1. **¿Qué es Storytelling?**
 

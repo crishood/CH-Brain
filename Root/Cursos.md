@@ -15,3 +15,7 @@
 14. [[¿Cómo grabar voces desde casa]]
 15. [[Music Production]]
 16. [[Audio Engineering]]
+17. [[Progrmación orientada a objetos]]
+18. [[Marca personal by Platzi]]
+19. [[Escritura Online]]
+20. [[Curso básico de storytelling]]

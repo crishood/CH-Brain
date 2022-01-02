@@ -1,4 +1,5 @@
 # ¿Cómo aprender cualquier cosa?
+[[Nekodificador]]
 El tipo de práctica define quienes se vuelven maestros y quienes no.
 
 El progreso no es lineal. Es una curva de saltos y mesetas que dibuja una curva logarítmica.
