@@ -36,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#machinelearning",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,15 +84,15 @@
   },
   "active": "18806dacac787612",
   "lastOpenFiles": [
-    "Root/Mentores/David Testal/Ansío conquistar el mundo.md",
+    "Root/Cursos/Mezcla y mastering/Audio Engineering.md",
     "Root/Mentores/David Testal/David Testal.md",
-    "Root/Mentores/David Testal/Te limitas a creer.md",
-    "Root/Mentores/David Testal/Buen maestro.md",
-    "Root/Mentores/David Testal/Pastillas contra la tormenta.md",
-    "Root/Mentores/David Testal/No te duermas en el sueño de otros.md",
-    "Root/Mentores/David Testal/Libertad es.md",
-    "Root/Mentores/David Testal/Buscar inteligencia.md",
-    "Root/Mentores/David Testal/Avanzar a la grandeza.md",
-    "Root/Mentores/David Testal/Retraso.md"
+    "Root/Mentores/Nicolás Gómez Dávila/Nicolás Gómez Dávila.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Creer en Dios.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Lo impotante no es creer en Dios, sino que Dios exista.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Las perfecciones de quienes amamos.md",
+    "Root/Cursos/Mezcla y mastering/¿Cómo grabar voces desde casa.md",
+    "Root/Cursos/Mezcla y mastering/Training de mezcla con Soma.md",
+    "Root/Cursos.md",
+    "Root/Cursos/Music production/Music Production.md"
   ]
 }

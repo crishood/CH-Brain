@@ -13,3 +13,5 @@
 12. [[Artist Development]]
 13. [[Python]]
 14. [[¿Cómo grabar voces desde casa]]
+15. [[Music Production]]
+16. [[Audio Engineering]]

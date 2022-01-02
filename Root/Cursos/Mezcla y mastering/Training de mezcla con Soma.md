@@ -1,7 +1,7 @@
 # Training de mezcla con Soma
 
 Created: November 5, 2021 3:41 PM
-Tag: mezcla y mastering
+Tag: #mezclaymastering
 
 **La ruta de una buena mezcla (Por Soma)**
 ![[pasted image 0.png]]
