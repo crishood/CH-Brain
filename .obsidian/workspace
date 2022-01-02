@@ -7,8 +7,12 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Root/Mentores/David Testal/Ansío conquistar el mundo.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Root/Mentores/David Testal/Ansío conquistar el mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Root/Mentores/David Testal/Ansío conquistar el mundo.md",
+    "Root/Libros/Maestría.md",
+    "Root/🌌 Axis mundi.md",
+    "Root/Libros.md",
+    "Root/Mentores/Robert Greene/Robert Greene.md",
+    "Root/Mentores.md",
     "Root/Mentores/Jordan Peterson/Jordan Peterson.md",
     "Root/Mentores/Jordan Peterson/Todo es sobre poder.md",
     "README.md",
-    "Root/Cursos.md",
-    "Root/Cursos/Videojuegos/Psicología de los videojuegos.md",
-    "Root/Cursos/Magia/Cómo superar el miedo a hablar en público.md",
-    "Root/Cursos/Marketing/Posicionamiento de marca.md",
-    "Root/Cursos/Magia/Curso básico de storytelling.md",
-    "Root/Cursos/Magia/Curso básico de storytelling fd9c381a9fe84fcbbfd6e0f5f627b5d9/Untitled.png.md",
-    "Root/🌌 Axis mundi.md"
+    "Root/Cursos.md"
   ]
 }
