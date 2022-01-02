@@ -19,3 +19,6 @@
 18. [[Marca personal by Platzi]]
 19. [[Escritura Online]]
 20. [[Curso básico de storytelling]]
+21. [[Posicionamiento de marca]]
+22. [[Psicología de los videojuegos]]
+23. [[Cómo superar el miedo a hablar en público]]
