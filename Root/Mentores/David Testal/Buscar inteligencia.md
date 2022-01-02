@@ -1,0 +1,1 @@
+Si buscas inteligencia, hallarás misterios que te obsesionen. Si buscas fuerza, te enfrentarás a decisiones difíciles. Si buscas valor, tendrás miedo. Si buscas confiar en ti, te criticarán. Si buscas amar, te encontrarás con personas heridas que sueñan con que confíen en ellas.

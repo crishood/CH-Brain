@@ -1,0 +1,1 @@
+No te permitas identificarte con las ideas que te gustan hasta que no puedas formularlas a tu manera por haberlas reconocido en tu propia experiencia, hasta que no sepas responder, sin repetir como un loro palabras ajenas, a quienes te pregunten por qué piensas lo que piensas.

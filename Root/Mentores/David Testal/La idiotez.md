@@ -1,0 +1,1 @@
+La idiotez debate si es necesario o no, si es justo o no, si es conveniente o no lo que es inevitable. La mediocridad se victimiza y lamenta o se vanagloria y celebra. La lucidez busca o inventa la manera de, sea o no agradable, usarlo a su favor de la forma más óptima posible.

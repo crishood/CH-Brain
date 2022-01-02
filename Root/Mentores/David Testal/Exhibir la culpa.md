@@ -1,0 +1,1 @@
+La exhibición de la culpa es excusa para no responsabilizarse. Declarar que te sientes culpable es pedir encima a quien dañaste que te compadezca y perdone, responsabilizarte es asumir las consecuencias sin lamentos y ofrecer reparación.

@@ -1,0 +1,1 @@
+La lentitud y la paciencia aumentan la velocidad eficaz, la prisa y la impaciencia aumentan la desolación.

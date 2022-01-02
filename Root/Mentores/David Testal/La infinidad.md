@@ -1,0 +1,1 @@
+La infinidad de lo que no puedes ver te ampara y favorece cuando te ocupas de utilizar a tu favor lo poco que eres capaz de ver, y sabotea tus anhelos cuando pretendes verlo, cuando pretendes entender por qué no has limpiado tu casa hasta ahora antes de ponerte a limpiarla.

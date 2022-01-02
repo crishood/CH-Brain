@@ -1,0 +1,1 @@
+Si quieres sentirte fuerte, jamás te quejes de las consecuencias de tus decisiones y aventúrate a responder a ellas de la mejor forma que sepas.

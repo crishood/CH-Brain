@@ -1,0 +1,1 @@
+Sólo busca provocar a su adversario quien se siente en inferioridad de condiciones, sólo se deja provocar por el adversario quien aún no se percata de haber vencido.

@@ -1,0 +1,1 @@
+La falta de deseo por algo nunca es un problema si no te aferras a la creencia de que deberías desearlo.

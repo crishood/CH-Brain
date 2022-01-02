@@ -1,0 +1,1 @@
+La mejor ayuda a "la cultura" sería hacer que los políticos quitasen sus sucias manos de ella. La subvención conlleva propaganda de la ideología imperante, censura de toda necesaria disidencia, pobreza y deshonestidad intelectual. Todo Ministerio de Cultura fomenta la incultura.

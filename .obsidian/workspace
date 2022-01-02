@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2a188c2fc6e6e878",
+        "id": "18806dacac787612",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#machinelearning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a188c2fc6e6e878",
+  "active": "18806dacac787612",
   "lastOpenFiles": [
-    "Root/Mentores/Nicolás Gómez Dávila/Nicolás Gómez Dávila.md",
-    "Root/Mentores/Nicolás Gómez Dávila/La poesía no visita sino de paso.md",
-    "Root/Mentores/Nicolás Gómez Dávila/Al acrecentar su poder.md",
-    "Root/Mentores/Nicolás Gómez Dávila/Lo difícil no es creer en Dios.md",
-    "Root/Mentores/Nicolás Gómez Dávila/Entre amigos no hay rangos.md",
-    "Root/Mentores/Nicolás Gómez Dávila/La religión se refugia en la poesía.md",
-    "Root/Mentores/Nicolás Gómez Dávila/Es reacionario.md",
-    "Root/Mentores/Nicolás Gómez Dávila/Sentido global.md",
-    "Root/Mentores/Nicolás Gómez Dávila/El individuo no busca su identidad.md",
-    "Root/Mentores/Nicolás Gómez Dávila/El que no cree en mitos.md"
+    "Root/Mentores/David Testal/Ansío conquistar el mundo.md",
+    "Root/Mentores/David Testal/David Testal.md",
+    "Root/Mentores/David Testal/Te limitas a creer.md",
+    "Root/Mentores/David Testal/Buen maestro.md",
+    "Root/Mentores/David Testal/Pastillas contra la tormenta.md",
+    "Root/Mentores/David Testal/No te duermas en el sueño de otros.md",
+    "Root/Mentores/David Testal/Libertad es.md",
+    "Root/Mentores/David Testal/Buscar inteligencia.md",
+    "Root/Mentores/David Testal/Avanzar a la grandeza.md",
+    "Root/Mentores/David Testal/Retraso.md"
   ]
 }

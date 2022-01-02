@@ -1,0 +1,1 @@
+Intentar disimular un supuesto defecto resulta más desfavorecedor que el defecto que pretendes disimular. Disimularlo te genera una inseguridad que se manifiesta en tu actitud. Sin embargo, exhibirlo insufla en ti una seguridad que torna el defecto en poderoso signo de unicidad.

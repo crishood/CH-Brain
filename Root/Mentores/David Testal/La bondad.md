@@ -1,0 +1,1 @@
+La bondad busca entender la maldad, la maldad busca imponer la bondad.

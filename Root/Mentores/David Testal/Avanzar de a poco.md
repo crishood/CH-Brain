@@ -1,0 +1,1 @@
+Suele llegar más lejos quien se siente inseguro al caminar y aun así se dedica a aprender y avanzar poco a poco sin rendirse, que quien seguro de sí mismo está convencido de cómo caminar desde el principio y se precipita.

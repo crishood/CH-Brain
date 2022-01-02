@@ -1,0 +1,1 @@
+A veces creamos grandes dramas, que aun haciéndonos sufrir nos hacen sentir vivos, para rellenar desesperadamente grandes vacíos que tememos asumir y afrontar. Cuanto más grande el vacío y más miedo a afrontarlo, más grande necesita ser el drama para rellenarlo.

@@ -1,0 +1,1 @@
+Toda información abundante estimula a quien está dispuesto a responsabilizarse y abruma a quien quisiera meter la cabeza bajo tierra. El cobarde pide que lo tranquilicen porque, al no afrontar el peligro, ya entró en pánico. El valiente busca, aun con miedo, hacerle frente.

@@ -1,0 +1,1 @@
+Libertad no es poder hacer todo lo que quieras, es nunca poner como excusa lo que no puedes hacer. No es carecer de limitaciones para lograr lo deseado como se supone que hay que lograrlo, es usarlas como estímulo para inventar tu manera genuina de lograrlo.

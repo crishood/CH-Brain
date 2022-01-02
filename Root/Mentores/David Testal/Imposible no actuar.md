@@ -1,0 +1,1 @@
+Es imposible no actuar, es imposible no crear, puesto que aunque decidas no hacer nada, estarás creando la realidad que esa inacción conlleva. Puedes callarte, pero serás responsable de lo que tu silencio diga.

@@ -1,0 +1,1 @@
+Vivir conforme a lo que creas que significa ser una buena persona, pero sin perder tiempo en intentar demostrárselo a los demás o en evitar que crean que no lo eres.

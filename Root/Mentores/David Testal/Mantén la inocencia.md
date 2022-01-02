@@ -1,0 +1,1 @@
+Mantén la inocencia, aun soportando desolaciones innombrables. Vive íntegro y de frente, aunque otros se aprovechen de ello. La mezquindad sólo vence batallas arrastrándose allí donde la grandeza está prestando atención al cielo, pero aun a través del dolor la grandeza prevalece.

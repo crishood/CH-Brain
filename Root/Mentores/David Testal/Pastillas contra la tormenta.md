@@ -1,0 +1,1 @@
+No hay pastillas contra la tormenta, pero la tormenta es una oportunidad para coger al fin el timón.

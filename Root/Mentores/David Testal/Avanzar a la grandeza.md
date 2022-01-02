@@ -1,0 +1,1 @@
+Aprovechar el momento no es sacrificar tu siguiente paso hacia lo que más te importa por lo que simplemente deseas, fugazmente, ahora mismo. No vives más intensamente obedeciendo impulsos efímeros, sino cuidando cada día como una oportunidad única para avanzar hacia tu grandeza.

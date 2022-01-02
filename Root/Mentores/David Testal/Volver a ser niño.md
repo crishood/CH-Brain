@@ -1,0 +1,1 @@
+Quiere volver a ser niño precisamente quien ha estado siempre atrapado en la irresponsabilidad tétrica de su infancia. Quiere ser adulto precisamente quien conserva su infancia como un tesoro interno ya integrado y busca hacerse responsable de su vida como un juego.

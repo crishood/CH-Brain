@@ -1,0 +1,1 @@
+Sé agradecido en la prosperidad, no te despistes quejándote en la adversidad, dedícate a algo que ames y sirve con ello a otros, rodéate de quienes deseen con alegría lo mejor para ti, estate disponible para quien desea ayudarse, aléjate de quien busca tu atención preocupándote.

@@ -1,0 +1,1 @@
+Por no tener coraje para ignorar, te limitas cobardemente a creer, a defender creencias que te convienen como si fuesen certezas, y nunca aprendes. Se vuelve estúpido quien se avergüenza de su ignorancia.

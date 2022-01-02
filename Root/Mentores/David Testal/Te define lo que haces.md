@@ -1,0 +1,1 @@
+Te define lo que haces, no cómo te autodenominas. Es común cobardía autodenominarse anti-demonios para poder actuar como un demonio no sólo impunemente, sino además aplaudido por una masa de imbéciles acomplejados que temen ser considerados demonios.

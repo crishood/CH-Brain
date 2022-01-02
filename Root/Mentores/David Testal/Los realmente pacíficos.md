@@ -1,0 +1,1 @@
+Sólo quien está dispuesto a ser considerado molesto, puede ser realmente pacífico. Quien reprime su disidencia ante un consenso, en vez de ser generoso y honesto, irá convirtiendo en odio su silencio.

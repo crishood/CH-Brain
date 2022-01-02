@@ -1,0 +1,1 @@
+Cualquier Gobierno, cuya principal o única función debiera ser, si acaso, la protección de sus gobernados, desvela su inutilidad y su encubierta naturaleza predatoria, cuando son sus gobernados quienes tienen que salvarlo, como el pelele que rescata al mafioso que lo extorsiona.

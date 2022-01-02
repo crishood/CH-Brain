@@ -1,0 +1,1 @@
+Como nos hemos quedado encerrados junto a los frutos de nuestras decisiones, sólo podemos liberarnos decidiendo utilizar a nuestro favor esos frutos. Quien se queja de lo que lleva consigo, se convierte a sí mismo en su propia cárcel.

@@ -1,0 +1,1 @@
+Quien no osa ocuparse por completo de sí mismo vive preocupado continuamente por la deriva del mundo, cuando es quien no se ocupa de sí mismo quien precisamente está desentendiéndose de la deriva del mundo. Toda dejación de responsabilidades se compensa con fingida impotencia.

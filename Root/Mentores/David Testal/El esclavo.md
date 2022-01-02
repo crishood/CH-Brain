@@ -1,0 +1,1 @@
+El esclavo se protegerá cuando se lo indiquen, aun sin convicción. El rebelde se desprotegerá cuando le indiquen que se proteja, y lo hará con suma convicción, por eso es aún más manipulable. El libre se protegerá según su criterio, se lo indiquen o no.
