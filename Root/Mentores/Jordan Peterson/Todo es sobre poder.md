@@ -1,0 +1,1 @@
+"Todo es cuestión de poder". La más ruidosa de las acusaciones (la más reveladora de las confesiones).
