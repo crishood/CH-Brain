@@ -7,12 +7,8 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Root/Mentores/David Testal/Ansío conquistar el mundo.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/Mentores/David Testal/Ansío conquistar el mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Root/🌌 Axis mundi.md",
+    "Root/Zettelkasten/Conectando todo.md",
+    "Root/Mentores/Espi/Espi.md",
+    "Root/Cursos/Music Industry/Artist Development.md",
+    "Root/Cursos.md",
     "Root/Mentores/David Testal/Ansío conquistar el mundo.md",
     "Root/Libros/Maestría.md",
-    "Root/🌌 Axis mundi.md",
     "Root/Libros.md",
     "Root/Mentores/Robert Greene/Robert Greene.md",
-    "Root/Mentores.md",
-    "Root/Mentores/Jordan Peterson/Jordan Peterson.md",
-    "Root/Mentores/Jordan Peterson/Todo es sobre poder.md",
-    "README.md",
-    "Root/Cursos.md"
+    "Root/Mentores.md"
   ]
 }
