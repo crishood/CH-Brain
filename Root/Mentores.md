@@ -12,3 +12,4 @@ Ellos son las personas que admiro. Son individuos interesantes de quienes aprend
 9. [[Varias mentes]]
 10. [[Nekodificador]]
 11. [[Robert Greene]]
+12. [[G.K. Chesterton]]
