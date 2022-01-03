@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Root/Zettelkasten",
+      "color": {
+        "a": 1,
+        "rgb": 12115768
+      }
+    },
+    {
+      "query": "line:(Axis Mundi)",
+      "color": {
+        "a": 1,
+        "rgb": 12115768
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.01717948717949,
   "lineSizeMultiplier": 0.966923076923077,
-  "collapse-forces": false,
-  "centerStrength": 0.425641025641026,
-  "repelStrength": 13.6410256410256,
-  "linkStrength": 0.21698717948718,
-  "linkDistance": 344,
-  "scale": 0.09848280266864548,
+  "collapse-forces": true,
+  "centerStrength": 0.497435897435897,
+  "repelStrength": 11.1773504273504,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.2292013594174995,
   "close": false
 }

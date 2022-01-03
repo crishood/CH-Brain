@@ -60,7 +60,7 @@
 *..........................1. Variables */
 :root,
 .theme-dark {
-  --main-node-rgb: 184, 223, 56;
+  --main-node-rgb: 79, 149, 49;
   --main-node: rgb(var(--main-node-rgb));
   --main-node-hover-rgb: 144, 28, 215;
   --main-node-hover: rgb(var(--main-node-hover-rgb));
@@ -110,10 +110,10 @@
   --main-background: #f5f5f5;
   --secondary-background: #e2e2e2;
   --secondary-background-low-opacity: #e2e2e254;
-  --main-node: #C2DF38;
+  --main-node: #4FC231;
   --accent-3: #012C37;
   --accent-4: #009000;
-  --accent-5: #4FC231;
+  --accent-5: #C2DF38;
   --external-link: #008080;
   --external-link-hidden: #307a8e;
   /* Overriding Obsidian Variables */

@@ -45,7 +45,7 @@ Nadie dentro de la industria musical vive de un solo trabajo. Necesitas mantener
 - Talento.
 - Prepárate para hacer más de una cosa.
 
-You must be prepared to become a lifelong learner.
+You must be prepared to become a lifelong learner.[[Nunca pares de aprender]]
 
 Debes estar preparado para convertirte en un aprendiz de por vida.
 
