@@ -7,8 +7,12 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Root/Zettelkasten/Combina la música con otras cosas.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Root/Zettelkasten/Combina la música con otras cosas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Root/Zettelkasten/Combina la música con otras cosas.md",
     "Root/Videos YT/DE SER ABSURDO A ARTISTA- Bizarrap Análisis Marketing.md",
     "Root/Videos YT.md",
     "Root/Mentores/Jordan Peterson/Sé específico con tus objetivos.md",
@@ -92,7 +98,6 @@
     "Root/Cursos/Music Industry/Artist Development.md",
     "Root/Mentores/Freddy Vega/Freddy Vega.md",
     "Root/Mentores/Freddy Vega/Nunca pares de aprender.md",
-    "Root/🌌 Axis mundi.md",
-    "Root/Videos YT/¿Qué es la libertad para Antonio Escohotado.md"
+    "Root/🌌 Axis mundi.md"
   ]
 }
