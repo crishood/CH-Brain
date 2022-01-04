@@ -7,12 +7,8 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Root/Zettelkasten/Combina la música con otras cosas.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/Zettelkasten/Combina la música con otras cosas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Root/Zettelkasten/Mi primer beat (Hace 10 años).md",
+    "Root/Cursos.md",
+    "Root/Cursos/Magia/Arcanos mayores y viaje del héroe.md",
     "Root/Zettelkasten/Combina la música con otras cosas.md",
     "Root/Videos YT/DE SER ABSURDO A ARTISTA- Bizarrap Análisis Marketing.md",
     "Root/Videos YT.md",
     "Root/Mentores/Jordan Peterson/Sé específico con tus objetivos.md",
     "Root/Mentores/Jordan Peterson/Jordan Peterson.md",
     "Root/Zettelkasten/Semper Fi.md",
-    "Root/Cursos/Music Industry/Artist Development.md",
-    "Root/Mentores/Freddy Vega/Freddy Vega.md",
-    "Root/Mentores/Freddy Vega/Nunca pares de aprender.md",
-    "Root/🌌 Axis mundi.md"
+    "Root/Cursos/Music Industry/Artist Development.md"
   ]
 }
