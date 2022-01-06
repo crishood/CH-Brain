@@ -7,8 +7,12 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Root/Cursos/Magia/Storytelling.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Root/Cursos/Magia/Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Root/Cursos/Magia/Storytelling.md",
     "Root/Zettelkasten/Mi primer beat (Hace 10 años).md",
     "Root/Cursos.md",
     "Root/Cursos/Magia/Arcanos mayores y viaje del héroe.md",
@@ -92,7 +98,6 @@
     "Root/Videos YT.md",
     "Root/Mentores/Jordan Peterson/Sé específico con tus objetivos.md",
     "Root/Mentores/Jordan Peterson/Jordan Peterson.md",
-    "Root/Zettelkasten/Semper Fi.md",
-    "Root/Cursos/Music Industry/Artist Development.md"
+    "Root/Zettelkasten/Semper Fi.md"
   ]
 }
