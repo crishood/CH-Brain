@@ -23,3 +23,4 @@
 22. [[Psicología de los videojuegos]]
 23. [[Cómo superar el miedo a hablar en público]]
 24. [[Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks]]
+25. [[Arturia Pigments]]
