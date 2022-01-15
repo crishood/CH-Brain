@@ -1,12 +1,12 @@
 # Desaprender para nunca parar de aprender | Freddy Vega
 
 Created: January 15, 2022 1:38 PM
-Minded?: No
-Tags: aprendizaje
+Minded?: Yes
+Tags: #aprendizaje
 
 Mírate cómo eras hace una década.
 
-¿Cómo eras hace 10 años? Esta idea de compararse uno con quien eras y no con otros la menciona [Jordan Peterson](https://www.notion.so/Jordan-Peterson-49fb8c891eac4432b13a15c2858f0068) 
+¿Cómo eras hace 10 años? Esta idea de compararse uno con quien eras y no con otros la menciona [[Jordan Peterson]]
 
 Tener la razón no importa.
 
@@ -58,7 +58,7 @@ Aprender y desaprender es terriblemente difícil.
 
 Lo que te llevó de 0 a 100 no te puede llevar de 100 a 1000
 
-Aprender requiere curiosidad intelectual, como la de [Antonio Escohotado](https://www.notion.so/Antonio-Escohotado-9942a2b653084193b4d500bfbb8045d0) 
+Aprender requiere curiosidad intelectual, como la de [[Antonio Escohotado]]
 
 Desaprender exige valentía y pedir ayuda. Nadie crece solo.
 

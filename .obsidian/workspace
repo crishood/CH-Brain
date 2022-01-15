@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Root/🌌 Axis mundi.md",
+            "file": "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/🌌 Axis mundi.md",
+                "file": "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
+    "Root/Mentores/Freddy Vega/Freddy Vega.md",
+    "Root/Videos YT/Desaprender para nunca parar de aprender.md",
+    "Root/Videos YT.md",
     "Root/🌌 Axis mundi.md",
     "Root/Zettelkasten/La vida es corta pero suficiente.md",
     "Root/Cursos/Computer Science/Introducción a la terminal y línea de comandos.md",
     "Root/Cursos/Data Science/Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks.md",
     "Root/Cursos/Music production/Arturia Pigments.md",
-    "Root/Cursos.md",
-    "Root/Artículos.md",
-    "Root/Cursos/Magia/Curso básico de storytelling/Untitled.png",
-    "Root/Cursos/Magia/Storytelling.md",
-    "Root/Zettelkasten/Mi primer beat (Hace 10 años).md"
+    "Root/Cursos.md"
   ]
 }
