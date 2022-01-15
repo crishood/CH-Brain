@@ -1,8 +1,8 @@
 # Introducción a la terminal y línea de comandos
 
 Created: January 6, 2022 10:07 AM
-Minded: No
-Tag: computer science
+Minded: Si
+Tag: #computerscience
 
 ## 01. Introducción
 
@@ -33,7 +33,7 @@ Todos los comandos se componen de:
 - **Opciones** que modifican el comportamiento del comando. Son opcionales.
 - **Argumentos** sobre los que actúa el comando. También opcionales.
 
-![Untitled](Introduccio%CC%81n%20a%20la%20terminal%20y%20li%CC%81nea%20de%20comandos%20f634f37e49e8489599ef3405285d3ab1/Untitled.png)
+![Untitled](Root/Cursos/Computer%20Science/Introducción%20a%20la%20terminal%20y%20línea%20de%20comandos/Untitled.png)
 
 Anatomía del comando `ls` que lista las carpetas y archivos (en este caso de la carpeta `/usr/local`). La opción `a` muestra los archivos ocultos y `l` muestra los detalles de cada carpeta/archivo.
 

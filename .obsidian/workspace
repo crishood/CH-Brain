@@ -7,8 +7,12 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Root/🌌 Axis mundi.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Root/🌌 Axis mundi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,14 +90,14 @@
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
     "Root/🌌 Axis mundi.md",
-    "Root/Cursos.md",
+    "Root/Zettelkasten/La vida es corta pero suficiente.md",
+    "Root/Cursos/Computer Science/Introducción a la terminal y línea de comandos.md",
+    "Root/Cursos/Data Science/Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks.md",
     "Root/Cursos/Music production/Arturia Pigments.md",
+    "Root/Cursos.md",
     "Root/Artículos.md",
     "Root/Cursos/Magia/Curso básico de storytelling/Untitled.png",
-    "Root/Cursos/Data Science/Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks.md",
     "Root/Cursos/Magia/Storytelling.md",
-    "Root/Zettelkasten/Mi primer beat (Hace 10 años).md",
-    "Root/Artículos/Arcanos mayores y viaje del héroe.md",
-    "Root/Zettelkasten/Combina la música con otras cosas.md"
+    "Root/Zettelkasten/Mi primer beat (Hace 10 años).md"
   ]
 }
