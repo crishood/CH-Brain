@@ -2,7 +2,7 @@
 
 Created: January 15, 2022 1:38 PM
 Minded?: Yes
-Tags: #aprendizaje
+Tags: #aprendizaje #Platzi 
 
 Mírate cómo eras hace una década.
 

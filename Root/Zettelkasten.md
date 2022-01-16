@@ -6,3 +6,4 @@
 5. [[La vida es corta pero suficiente]]
 6. [[Semper Fi]]
 7. [[Mi primer beat (Hace 10 años)]]
+8. [[Capítulo 2 del libro de Boba Fett]]
