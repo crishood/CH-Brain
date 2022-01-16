@@ -1,0 +1,1 @@
+# Existen tantas noches como días, y ambos tienen la misma duración en el transcurso del año. Hasta la vida más feliz no se puede medir sin unos momentos de oscuridad, y la palabra “feliz” perdería sentido si no estuviese equilibrada por la tristeza.

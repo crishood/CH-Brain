@@ -1,0 +1,1 @@
+# Conocer tu propia oscuridad es el mejor método de lidiar con la oscuridad de otros.

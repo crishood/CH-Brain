@@ -1,0 +1,1 @@
+# Cada vida humana contiene un potencial, si ese potencial no es alcanzado, entonces esa vida fue desperdiciada.

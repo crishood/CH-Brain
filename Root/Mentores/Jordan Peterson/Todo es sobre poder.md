@@ -1,1 +1,2 @@
 "Todo es cuestión de poder". La más ruidosa de las acusaciones (la más reveladora de las confesiones).
+Esta frase se relaciona con el pensamiento de Jung que dice [[Conocer tu propia oscuridad es el mejor método de lidiar con la oscuridad de otros.]]

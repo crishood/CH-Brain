@@ -1,0 +1,1 @@
+# El péndulo de la mente oscila entre el sentido y el sin sentido, no entre lo correcto e incorrecto.

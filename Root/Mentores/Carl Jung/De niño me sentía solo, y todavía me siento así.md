@@ -1,0 +1,1 @@
+# De niño me sentía solo, y todavía me siento así, porque sé cosas e insinúo cosas que otros parecen no conocer, y la mayoría no quiere saberlas.

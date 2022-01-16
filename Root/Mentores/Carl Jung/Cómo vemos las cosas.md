@@ -1,0 +1,1 @@
+Todo depende de cómo veamos las cosas, no de cómo las cosas son en sí mismas. La menor de las cosas con un significado, vale más en la vida que la más grande de las cosas sin un significado

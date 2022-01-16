@@ -1,0 +1,1 @@
+# Los errores, después de todo, son los cimientos de la verdad y si un hombre no sabe qué es una cosa , es por lo menos un aumento en el conocimiento si él sabe lo que no es.

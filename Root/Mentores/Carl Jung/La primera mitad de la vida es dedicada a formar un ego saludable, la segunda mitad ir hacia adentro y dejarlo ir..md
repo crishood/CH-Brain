@@ -1,0 +1,1 @@
+# La primera mitad de la vida es dedicada a formar un ego saludable, la segunda mitad ir hacia adentro y dejarlo ir.

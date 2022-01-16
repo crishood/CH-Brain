@@ -10,6 +10,14 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "0da5dc14e10786f8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -49,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600
+    "width": 342
   },
   "right": {
     "id": "5d7d350b55db49f3",
@@ -82,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0bc495baaec21314",
+  "active": "0da5dc14e10786f8",
   "lastOpenFiles": [
-    "Root/Cursos/PM/OKRs.md",
-    "Root/Videos YT/Desaprender para nunca parar de aprender.md",
-    "Root/Zettelkasten/Capítulo 2 del libro de Boba Fett.md",
     "Root/Mentores.md",
-    "Root/Mentores/Carl Jung/Carl Jung.md",
-    "Root/Zettelkasten.md",
-    "Root/Zettelkasten/La vida es corta pero suficiente.md",
+    "Root/Mentores/Joseph Campbell/Joseph Campbell.md",
     "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
-    "Root/Mentores/Freddy Vega/Freddy Vega.md",
-    "Root/Videos YT.md"
+    "Root/Mentores/Jordan Peterson/Todo es sobre poder.md",
+    "Root/Mentores/Carl Jung/Carl Jung.md",
+    "Root/Mentores/Carl Jung/Los errores, después de todo, son los cimientos de la verdad.md",
+    "Root/Mentores/Carl Jung/El péndulo de la mente oscila entre el sentido y el sin sentido.md",
+    "Root/Mentores/Carl Jung/La primera mitad de la vida es dedicada a formar un ego saludable, la segunda mitad ir hacia adentro y dejarlo ir..md",
+    "Root/Mentores/Carl Jung/Cómo vemos las cosas.md",
+    "Root/Mentores/Carl Jung/Cada vida humana.md"
   ]
 }

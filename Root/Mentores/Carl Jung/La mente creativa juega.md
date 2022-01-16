@@ -1,0 +1,1 @@
+La creación de algo nuevo no se logra a través del intelecto, sino por el instinto de juego actuando de una necesidad interior. La mente creativa juega con los objetos que ama.

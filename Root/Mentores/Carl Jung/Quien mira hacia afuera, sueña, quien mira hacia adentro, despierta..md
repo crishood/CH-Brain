@@ -1,0 +1,1 @@
+Tus visiones serán más claras únicamente cuando puedas mirar dentro de tu propio corazón. Quien mira hacia afuera, sueña, quien mira hacia adentro, despierta.
