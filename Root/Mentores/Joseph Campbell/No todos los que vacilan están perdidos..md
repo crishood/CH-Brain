@@ -1,0 +1,1 @@
+No todos los que vacilan están perdidos. La psique tiene muchos secretos en reserva. Y no se descubren a menos que sea necesario.

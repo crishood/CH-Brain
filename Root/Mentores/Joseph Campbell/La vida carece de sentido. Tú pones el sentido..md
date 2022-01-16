@@ -1,0 +1,1 @@
+# La vida carece de sentido. Tú pones el sentido.

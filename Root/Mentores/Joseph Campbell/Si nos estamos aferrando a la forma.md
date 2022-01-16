@@ -1,0 +1,1 @@
+Si nos estamos aferrando a la forma, ahora, no tendremos próxima forma. ← Esta frase tiene que ver con la filosofía de vida de [[Robert Greene]] siempre [[Orientado al futuro]]

@@ -1,0 +1,1 @@
+# La postura del guerrero es decir «sí» a la vida; «sí» a todo.

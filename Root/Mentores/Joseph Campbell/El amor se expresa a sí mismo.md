@@ -1,0 +1,1 @@
+En la medida en que el amor se expresa a sí mismo, no se expresa según los modos de vida aprobados. Es por eso que resulta tan secreto. El amor no tiene nada que ver con el orden social.

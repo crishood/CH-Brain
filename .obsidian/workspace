@@ -7,8 +7,12 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Root/Mentores/Joseph Campbell/Si nos estamos aferrando a la forma.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Root/Mentores/Joseph Campbell/Si nos estamos aferrando a la forma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0da5dc14e10786f8",
+  "active": "0bc495baaec21314",
   "lastOpenFiles": [
-    "Root/Mentores.md",
+    "Root/Mentores/Joseph Campbell/Si nos estamos aferrando a la forma.md",
+    "Root/Mentores/Robert Greene/Orientado al futuro.md",
+    "Root/Mentores/Robert Greene/Robert Greene.md",
     "Root/Mentores/Joseph Campbell/Joseph Campbell.md",
-    "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
-    "Root/Mentores/Jordan Peterson/Todo es sobre poder.md",
-    "Root/Mentores/Carl Jung/Carl Jung.md",
-    "Root/Mentores/Carl Jung/Los errores, después de todo, son los cimientos de la verdad.md",
-    "Root/Mentores/Carl Jung/El péndulo de la mente oscila entre el sentido y el sin sentido.md",
-    "Root/Mentores/Carl Jung/La primera mitad de la vida es dedicada a formar un ego saludable, la segunda mitad ir hacia adentro y dejarlo ir..md",
-    "Root/Mentores/Carl Jung/Cómo vemos las cosas.md",
-    "Root/Mentores/Carl Jung/Cada vida humana.md"
+    "Root/🌌 Axis mundi.md",
+    "Root/Mentores/Joseph Campbell/Eres parte del mal.md",
+    "Root/Mentores/Joseph Campbell/No todos los que vacilan están perdidos..md",
+    "Root/Mentores.md",
+    "Root/Mentores/Joseph Campbell/La vida carece de sentido. Tú pones el sentido..md",
+    "Root/Mentores/Joseph Campbell/El guerrero dice si.md"
   ]
 }

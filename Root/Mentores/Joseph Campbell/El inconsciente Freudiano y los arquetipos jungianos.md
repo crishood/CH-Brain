@@ -1,0 +1,1 @@
+# El inconsciente freudiano es un inconsciente personal, biográfico. Los arquetipos jungianos del inconsciente son biológicos.

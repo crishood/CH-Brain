@@ -1,0 +1,1 @@
+Tú mismo eres parte del mal, o no estarías vivo. Cada cosa que haces es mala para alguien. Esta es una de las ironías de la creación.

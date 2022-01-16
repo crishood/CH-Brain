@@ -1,0 +1,1 @@
+# En vez de limpiar su propio corazón, el fanático trata de limpiar el mundo.

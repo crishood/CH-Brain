@@ -1,0 +1,1 @@
+# Las virtudes del pasado son los vicios del presente. Y mucho de lo que se creía que eran los vicios del pasado son las necesidades de hoy. El orden moral tiene que ponerse a tono con las necesidades morales de la vida real en el tiempo, aquí y ahora.
