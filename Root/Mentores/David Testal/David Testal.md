@@ -1,4 +1,11 @@
 # David Testal
+David es influenciado por:
+[[Jordan Peterson]]
+[[Nicolás Gómez Dávila]]
+[[Carl Jung]]
+[[Antonio Escohotado]]
+
+## Pensamientos de David
 1. [[Ansío conquistar el mundo]]
 2. [[Avanzar a la grandeza]]
 3. [[Avanzar de a poco]]
@@ -40,6 +47,7 @@
 37. [[Vivir conforme a tus creencias]]
 38. [[Volver a ser niño]]
 39. [[Vulnerabilidad y verguenza]]
+40. [[No hay arte subvencionado]]
 
 
 

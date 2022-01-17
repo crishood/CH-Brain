@@ -7,3 +7,6 @@
 6. [[Semper Fi]]
 7. [[Mi primer beat (Hace 10 años)]]
 8. [[Capítulo 2 del libro de Boba Fett]]
+9. [[Producir canciones con gusto]]
+10. [[Actuar religioso]]
+11. [[La música urbana es un loop]]
