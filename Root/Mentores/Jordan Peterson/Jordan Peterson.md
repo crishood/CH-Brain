@@ -1,3 +1,5 @@
 Autor de [[12 Reglas para vivir - Un antídoto al caos]]
 1. [[Todo es sobre poder]]
 2. [[Sé específico con tus objetivos]]
+3. [[El comportamiento, el juego y la religión]]
+4. [[Si no puedes entender el porqué]]

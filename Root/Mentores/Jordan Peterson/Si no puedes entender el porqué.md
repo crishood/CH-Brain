@@ -1,0 +1,1 @@
+# Si no puedes entender por qué alguien hizo algo, mira las consecuencias y comprenderás la motivación.

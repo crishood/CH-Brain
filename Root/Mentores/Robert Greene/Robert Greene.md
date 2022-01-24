@@ -1,3 +1,4 @@
 # Robert Greene
 Autor de:
-[[Maestría]]
+1. [[Maestría]]
+2. [[Leyes de la naturaleza humana]]

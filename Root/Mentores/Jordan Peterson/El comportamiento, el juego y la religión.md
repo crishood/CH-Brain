@@ -1,0 +1,2 @@
+# El comportamiento, el juego y la religión
+El comportamiento se imita, luego se abstrae en el juego, se formaliza en el drama y la historia, se cristaliza en el mito y se codifica en la religión - y sólo entonces se critica en la filosofía, y se proporciona, post-hoc, con fundamentos racionales.

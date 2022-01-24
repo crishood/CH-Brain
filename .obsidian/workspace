@@ -7,8 +7,12 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Root/Zettelkasten/Producir canciones con gusto.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Root/Zettelkasten/Producir canciones con gusto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
-    "Root/Videos YT/DE SER ABSURDO A ARTISTA- Bizarrap Análisis Marketing.md",
-    "Root/Zettelkasten/Productos memorables y la realidad.md",
-    "Root/Mentores/Antonio Escohotado/Amor veritas, amor rei.md",
-    "Root/Zettelkasten.md",
-    "Root/Zettelkasten/La música urbana es un loop.md",
-    "Root/Mentores/Riclargo/El cerebro funciona de forma similar al algoritmo de las redes sociales..md",
-    "Root/Mentores/Riclargo/Riclargo.md",
-    "Root/Mentores/David Testal/David Testal.md",
-    "Root/Mentores/David Testal/No hay arte subvencionado.md",
-    "Root/Zettelkasten/Actuar religioso.md"
+    "Root/Zettelkasten/Producir canciones con gusto.md",
+    "Root/Zettelkasten/De lo explícito a lo latente 7410652b1a9545db8b4c256f2ef40f88.md",
+    "Root/Mentores/Jordan Peterson/Sé específico con tus objetivos.md",
+    "Root/Mentores/Jordan Peterson/Jordan Peterson.md",
+    "Root/Mentores/Jordan Peterson/Si no puedes entender el porqué.md",
+    "Root/Mentores/Jordan Peterson/El comportamiento, el juego y la religión.md",
+    "Root/Mentores/Robert Greene/Robert Greene.md",
+    "Root/Libros/Leyes de la naturaleza humana.md",
+    "Root/Libros/Maestría.md",
+    "Root/Videos YT/DE SER ABSURDO A ARTISTA- Bizarrap Análisis Marketing.md"
   ]
 }
