@@ -14,3 +14,4 @@ Ellos son las personas que admiro. Son individuos interesantes de quienes aprend
 11. [[G.K. Chesterton]]
 12. [[Carl Jung]]
 13. [[Joseph Campbell]]
+14. [[ Juan Garay ]]
