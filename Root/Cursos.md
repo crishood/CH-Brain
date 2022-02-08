@@ -11,7 +11,7 @@
 10. [[Training de mezcla con Soma]]
 11. [[User Research]]
 12. [[Artist Development]]
-13. [[Python]]
+13. [[Root/Cursos/Code/Python]]
 14. [[¿Cómo grabar voces desde casa]]
 15. [[Music Production]]
 16. [[Audio Engineering]]
@@ -25,3 +25,4 @@
 24. [[Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks]]
 25. [[Arturia Pigments]]
 26. [[Introducción a la terminal y línea de comandos]]
+27. [[Root/Cursos/Code/Python]]
