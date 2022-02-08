@@ -7,8 +7,12 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Curso de CX Research y UX Testing.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Curso de CX Research y UX Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Curso de CX Research y UX Testing.md",
+    "Root/Mentores.md",
+    "Root/Mentores/Juan Garay/Juan Garay.md",
     "Root/Cursos.md",
     "Root/Cursos/Computer Science/Python.md",
     "Root/Cursos/UI UX/Arquitectura de la información.md",
     "Root/Cursos/UI UX/Curso de uso y manejo de color.md",
     "Root/Cursos/UI UX/User Research.md",
     "Root/Cursos/UI UX/Sistemas de diseño.md",
-    "Root/Cursos/UI UX/Fundamentos UI UX.md",
-    "Root/Zettelkasten/Data Analyst y UX Designer.md",
-    "Root/Zettelkasten.md",
-    "Root/Zettelkasten/Producir canciones con gusto.md"
+    "Root/Cursos/UI UX/Fundamentos UI UX.md"
   ]
 }
