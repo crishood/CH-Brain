@@ -7,12 +7,8 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Curso de CX Research y UX Testing.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso de CX Research y UX Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
