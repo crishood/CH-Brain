@@ -25,4 +25,6 @@
 24. [[Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks]]
 25. [[Arturia Pigments]]
 26. [[Introducción a la terminal y línea de comandos]]
-27. [[Root/Cursos/Code/Python]]
+27. [[Root/Cursos/Computer Science/Python]]
+28. [[Curso de Asincronismo con JavaScript]]
+29. [[Curso de Manipulación del DOM]]

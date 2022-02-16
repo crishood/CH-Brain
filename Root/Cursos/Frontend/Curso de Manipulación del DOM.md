@@ -1,8 +1,8 @@
 # Curso de Manipulación del DOM
 
 Created: February 10, 2022 4:38 PM
-Minded: No
-Tag: Platzi, code, computer science, web
+Minded: Yes
+Tag: #Platzi, #code, #computerscience, #web
 
 # ****¿Qué es el DOM?****
 
@@ -12,7 +12,7 @@ El **DOM** es un árbol modificable que representa el HTML.
 
 El **CSSOM** es el árbol para el CSS.
 
-![Untitled](Curso%20de%20Manipulacio%CC%81n%20del%20DOM%208b59be9419b84d8c978e7d0bedab66a4/Untitled.png)
+![Untitled](Root/Cursos/Frontend/Curso%20de%20Manipulación%20del%20DOM/Untitled.png)
 
 # ****Web APIs modernas****
 
@@ -20,7 +20,7 @@ Combinar el DOM + JS = Web API.
 
 Una API es un puente que comunica dos pedazos de software.
 
-![Untitled](Curso%20de%20Manipulacio%CC%81n%20del%20DOM%208b59be9419b84d8c978e7d0bedab66a4/Untitled%201.png)
+![Untitled](Root/Cursos/Frontend/Curso%20de%20Manipulación%20del%20DOM/Untitled%201.png)
 
 # ****Leer nodos****
 
@@ -198,7 +198,7 @@ input.addEventListener('input', (event) => {
 
 Los eventos suceden desde el elemento más pequeño hacia afuera. Si doy click en un botón que tiene un listener, el evento se va a propagar a cada uno de los padres que estén afuera.
 
-![Untitled](Curso%20de%20Manipulacio%CC%81n%20del%20DOM%208b59be9419b84d8c978e7d0bedab66a4/Untitled%202.png)
+![Untitled](Root/Cursos/Frontend/Curso%20de%20Manipulación%20del%20DOM/Untitled%202.png)
 
 Este fenómeno se le conoce como *“bubbling”*.
 

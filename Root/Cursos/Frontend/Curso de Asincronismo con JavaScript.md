@@ -1,8 +1,8 @@
 # Curso de Asincronismo con JavaScript
 
 Created: February 12, 2022 6:00 AM
-Minded: No
-Tag: Platzi, code, computer science, web
+Minded: Yes
+Tag: #Platzi, #code, #computerscience, #web
 
 # ****Introducción al asincronismo****
 
@@ -29,7 +29,7 @@ El Event Loop es la torre de control.
 3. **Cola de tareas:** Cada vez que nuestro programa recibe una notificación del exterior o de otro contexto distinto al de la aplicación, el mensaje se inserta en una cola de mensajes pendientes y se registra su callback correspondiente.
 4. **Eventloop o Loop de eventos:** Cuando la pila de llamadas (call stack) se vacía, es decir, no hay nada más que ejecutar, se procesan los mensajes de la cola. Con cada ‘tick’ del bucle de eventos, se procesa un nuevo mensaje.
 
-![Untitled](Curso%20de%20Asincronismo%20con%20JavaScript%201c0164626b1441a0bbc2cc72a5249f23/Untitled.png)
+![Untitled](Root/Cursos/Frontend/Curso%20de%20Asincronismo%20con%20JavaScript/Untitled.png)
 
 1. **API:** Interfaz de programación de aplicaciones (Application Programming Interface). Es un conjunto de rutinas que provee acceso a funciones de un determinado software.
 2. **Concurrencia:** Cuando dos o más tareas progresan simultáneamente.
