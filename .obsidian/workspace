@@ -7,12 +7,8 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Root/Cursos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/Cursos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
-    "Root/Cursos.md",
-    "Root/Canciones.md",
-    "Root/Artículos.md",
-    "Curso de CX Research y UX Testing.md",
-    "Root/Cursos/Frontend/Curso de Asincronismo con JavaScript.md",
-    "Root/Cursos/Frontend/Curso de Manipulación del DOM.md",
     "Root/Mentores.md",
-    "Root/Mentores/Juan Garay/Juan Garay.md",
-    "Root/Cursos/Computer Science/Python.md",
-    "Root/Cursos/UI UX/Arquitectura de la información.md"
+    "Curso de CX Research y UX Testing.md",
+    "Root/Cursos.md",
+    "Root/Cursos/Data Science/Datacademy.md",
+    "Root/Artículos/How to Master The Art of Storytelling.md",
+    "Root/Artículos.md",
+    "Root/Artículos/Arcanos mayores y viaje del héroe.md",
+    "Root/Canciones.md",
+    "Root/Cursos/Frontend/Curso de Asincronismo con JavaScript.md",
+    "Root/Cursos/Frontend/Curso de Manipulación del DOM.md"
   ]
 }
