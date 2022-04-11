@@ -29,3 +29,4 @@
 28. [[Curso de Asincronismo con JavaScript]]
 29. [[Curso de Manipulación del DOM]]
 30. [[Datacademy]]
+31. [[Rivelino]]
