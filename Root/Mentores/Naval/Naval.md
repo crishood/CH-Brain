@@ -1,0 +1,1 @@
+1. [[Knowledge Makes the Existence of Resources Infinite]]

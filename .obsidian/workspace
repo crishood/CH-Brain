@@ -7,12 +7,8 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Root/Cursos.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/Cursos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Root/Artículos/Knowledge Makes the Existence of Resources Infinite.md",
+    "Root/Mentores/Naval/Naval.md",
+    "Root/Mentores/Monoperro/Monoperro.md",
+    "Root/Zettelkasten.md",
+    "Root/Zettelkasten/El remedio para el miedo.md",
+    "Root/Artículos/How to Master The Art of Storytelling.md",
+    "README.md",
     "Root/Cursos.md",
     "Root/Cursos/Social/Rivelino.md",
-    "Root/Mentores.md",
-    "Curso de CX Research y UX Testing.md",
-    "Root/Cursos/Data Science/Datacademy.md",
-    "Root/Artículos/How to Master The Art of Storytelling.md",
-    "Root/Artículos.md",
-    "Root/Artículos/Arcanos mayores y viaje del héroe.md",
-    "Root/Canciones.md",
-    "Root/Cursos/Frontend/Curso de Asincronismo con JavaScript.md"
+    "Root/Mentores.md"
   ]
 }
