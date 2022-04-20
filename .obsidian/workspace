@@ -7,12 +7,8 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Root/Zettelkasten/El remedio para el miedo.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/Zettelkasten/El remedio para el miedo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
-    "Root/Zettelkasten/El remedio para el miedo.md",
+    "Root/Zettelkasten/La música urbana es un loop.md",
     "Root/Zettelkasten.md",
+    "README.md",
+    "Root/Zettelkasten/El remedio para el miedo.md",
     "Root/Artículos/Knowledge Makes the Existence of Resources Infinite.md",
     "Root/Mentores/Naval/Naval.md",
     "Root/Mentores.md",
     "Root/Mentores/Monoperro/Monoperro.md",
     "Root/Artículos/How to Master The Art of Storytelling.md",
-    "README.md",
-    "Root/Cursos.md",
-    "Root/Cursos/Social/Rivelino.md"
+    "Root/Cursos.md"
   ]
 }
