@@ -7,8 +7,12 @@
         "id": "0bc495baaec21314",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Root/Zettelkasten/El remedio para el miedo.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 637
+    "width": 320
   },
   "right": {
     "id": "5d7d350b55db49f3",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Root/Zettelkasten/El remedio para el miedo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "0bc495baaec21314",
   "lastOpenFiles": [
+    "Root/Zettelkasten/El remedio para el miedo.md",
+    "Root/Zettelkasten.md",
     "Root/Artículos/Knowledge Makes the Existence of Resources Infinite.md",
     "Root/Mentores/Naval/Naval.md",
+    "Root/Mentores.md",
     "Root/Mentores/Monoperro/Monoperro.md",
-    "Root/Zettelkasten.md",
-    "Root/Zettelkasten/El remedio para el miedo.md",
     "Root/Artículos/How to Master The Art of Storytelling.md",
     "README.md",
     "Root/Cursos.md",
-    "Root/Cursos/Social/Rivelino.md",
-    "Root/Mentores.md"
+    "Root/Cursos/Social/Rivelino.md"
   ]
 }
