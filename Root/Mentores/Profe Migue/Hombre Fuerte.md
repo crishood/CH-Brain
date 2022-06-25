@@ -1,0 +1,3 @@
+¿Cómo es un hombre fuerte?¿Cómo nos volvemos hombres más fuertes?
+
+> _Económicamente: trabaja duro, sin quejarse, hace las vainas bien, se hace mejor con el tiempo, ahorra y tiene proyectos. Socialmente: busca crear hermandad con otros hombres en su entorno, no envidia a los más exitosos y ayuda a los que están aprendiendo. No le teme a las mujeres, sabe tratarlas, es agradable, no es servil ni inseguro. Sabe dar respeto y se hace respetar. No se perturba ante adversidad. Espiritualmente: sabe quién es, de dónde viene, sabe lo que tiene, conoce sus límites, respeta a sus padres y los ayuda. Está en paz. No se azara por los problemas, los resuelve._

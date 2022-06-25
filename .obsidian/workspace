@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc495baaec21314",
+        "id": "ad3dd0b66303af31",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0bc495baaec21314",
+  "active": "ad3dd0b66303af31",
   "lastOpenFiles": [
-    "Root/Zettelkasten/La música urbana es un loop.md",
-    "Root/Zettelkasten.md",
-    "README.md",
-    "Root/Zettelkasten/El remedio para el miedo.md",
-    "Root/Artículos/Knowledge Makes the Existence of Resources Infinite.md",
-    "Root/Mentores/Naval/Naval.md",
+    "Root/Zettelkasten/Productos memorables y la realidad.md",
+    "Root/Zettelkasten/De lo explícito a lo latente.md",
+    "Root/Cursos/UI UX/Curso de CX Research y UX Testing.md",
+    "Root/Videos YT.md",
+    "Root/Podcasts.md",
+    "Root/Artículos.md",
+    "Root/Canciones.md",
     "Root/Mentores.md",
-    "Root/Mentores/Monoperro/Monoperro.md",
-    "Root/Artículos/How to Master The Art of Storytelling.md",
-    "Root/Cursos.md"
+    "Root/Mentores/Daniel Valenzuela/Daniel Valenzuela.md",
+    "Root/Mentores/Cristhian Saul/Cristhian Saul.md"
   ]
 }

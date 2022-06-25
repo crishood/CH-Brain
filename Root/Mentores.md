@@ -16,3 +16,8 @@ Ellos son las personas que admiro. Son individuos interesantes de quienes aprend
 13. [[Joseph Campbell]]
 14. [[Juan Garay]]
 15. [[Naval]]
+16. [[Profe Migue]]
+17. [[Camilo Arguello]]
+18. [[Sebastian Diaz]]
+19. [[Cristhian Saul]]
+20. [[Daniel Valenzuela]]

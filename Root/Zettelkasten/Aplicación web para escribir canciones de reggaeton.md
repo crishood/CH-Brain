@@ -7,4 +7,4 @@ Tags: #2develop, #creatividad, #idea, #machinelearning, #app, #songwriting
 
 Crear una aplicación con inteligencia artificial que me escriba canciones coherentes con las métricas y el vocabulario más usado por las canciones de reggaeton.
 
-Creo que la puedo desarrollar con Angular y Django.
+Creo que la puedo desarrollar con React y Django.
