@@ -1,0 +1,1 @@
+Uno desperdicia sus talentos. En el camino uno se da cuanta que tiene una gran aptitud para algo, pero no lo desarrolla 'porque eso nunca lo voy a necesitar'.

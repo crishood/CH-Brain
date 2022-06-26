@@ -1,0 +1,1 @@
+No le pierdan tiempo a canales sobre cómo saber si la mujer piensa xyz. Enfóquense en las virtudes del hombre que sabe hacer plata. Ellas vienen por añadidura.

@@ -1,0 +1,1 @@
+Los hombres jóvenes necesitan instrucción sobre cómo tratar a las mujeres, sí, pero necesitan más instrucción sobre cómo hacer plata. Y a tener presente que eso es lo primordial.

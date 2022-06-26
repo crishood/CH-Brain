@@ -1,0 +1,1 @@
+La liberación económica y política de la mujer fue un antes y un después en la evolución humana. Y muchos hombres no están adaptándose a la nueva presión evolutiva. No se reproducirán.

@@ -1,0 +1,1 @@
+Tip de convivencia básico: cuando algo es muy apreciado por alguien, expresar desprecio por eso solo hace que nos hagamos antipáticos ante ese alguien. Tirarle odio a las cosas queridas por otros, nos hace desagradables. Para los que preguntan cómo caer bien.
