@@ -30,3 +30,4 @@
 29. [[Curso de Manipulación del DOM]]
 30. [[Datacademy]]
 31. [[Rivelino]]
+32. [[Tarot]]

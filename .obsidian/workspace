@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Root/Libros/Leyes de la naturaleza humana.md",
+            "file": "Root/Zettelkasten/4.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/Libros/Leyes de la naturaleza humana.md",
+                "file": "Root/Zettelkasten/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ad3dd0b66303af31",
   "lastOpenFiles": [
-    "Root/Libros/Leyes de la naturaleza humana.md",
-    "Root/Libros/Maestría.md",
-    "Root/Libros/Hábitos Atómicos.md",
-    "Root/Libros/12 Reglas para vivir - Un antídoto al caos.md",
-    "Root/Mentores/Freddy Vega/Freddy Vega.md",
-    "Root/Mentores/Freddy Vega/Nunca pares de aprender.md",
-    "Root/Mentores/Jordan Peterson/Todo es sobre poder.md",
+    "Root/Zettelkasten/4.md",
+    "Root/Zettelkasten.md",
+    "Root/Videos YT.md",
     "Root/Mentores.md",
+    "Root/Mentores/Profe Migue/Hombre Fuerte.md",
+    "Root/Mentores/Profe Migue/Disonancia.md",
+    "Root/Mentores/Profe Migue/Desperdicio de talento.md",
     "Root/Mentores/Profe Migue/Convivencia básica.md",
-    "Root/Mentores/Profe Migue/Desperdicio de talento.md"
+    "Root/Mentores/Profe Migue/Cómo piensa una mujer.md",
+    "Root/Cursos/Tarot/Tarot.md"
   ]
 }
