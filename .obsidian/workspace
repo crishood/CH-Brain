@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Root/Zettelkasten/4.md",
+            "file": "Root/Mentores/Robert Greene/Orientado al futuro.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/Zettelkasten/4.md",
+                "file": "Root/Mentores/Robert Greene/Orientado al futuro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ad3dd0b66303af31",
   "lastOpenFiles": [
-    "Root/Zettelkasten/4.md",
-    "Root/Zettelkasten.md",
-    "Root/Videos YT.md",
-    "Root/Mentores.md",
-    "Root/Mentores/Profe Migue/Hombre Fuerte.md",
-    "Root/Mentores/Profe Migue/Disonancia.md",
-    "Root/Mentores/Profe Migue/Desperdicio de talento.md",
-    "Root/Mentores/Profe Migue/Convivencia básica.md",
-    "Root/Mentores/Profe Migue/Cómo piensa una mujer.md",
-    "Root/Cursos/Tarot/Tarot.md"
+    "Root/Mentores/Robert Greene/Orientado al futuro.md",
+    "Root/Mentores/Riclargo/El cerebro funciona de forma similar al algoritmo de las redes sociales..md",
+    "Root/Mentores/Nicolás Gómez Dávila/Verdadero Aristócrata.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Un país sano.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Sentido global.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Ningún ser merece nuestro interés má de un instante.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Lo impotante no es creer en Dios, sino que Dios exista.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Lo difícil no es creer en Dios.md",
+    "Root/Mentores/Nicolás Gómez Dávila/Estar enamorado.md",
+    "Root/Mentores/Nicolás Gómez Dávila/La libertad es un sueño de exclavos.md"
   ]
 }
